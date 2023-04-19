@@ -1,2 +1,10 @@
-# tiktok
-Videos feitos e postados por mim com conteúdos sobre programação
+![Group 39](https://user-images.githubusercontent.com/60229463/233161354-8d451f20-1ee6-4600-a768-d8c94b08f32e.png)
+
+## [⛏️ RECRIANDO O MINECRAFT](https://www.tiktok.com/@rozdrigo_dev/video/7187264267077324038?is_from_webapp=1&sender_device=pc&web_id=7188344215650108933)
+## [🌳 FRACTAIS](https://www.tiktok.com/@rozdrigo_dev/video/7192457519158004997?is_from_webapp=1&sender_device=pc&web_id=7188344215650108933)
+## [🐞 OPERAÇÕES COM BOOLEANOS EM LIGUAGEM SEM TIPAGEM/TIPAGEM FRACA](https://www.tiktok.com/@rozdrigo_dev/video/7192075207765396741?is_from_webapp=1&sender_device=pc&web_id=7188344215650108933)
+## [🤖 AUTOMATIZANDO PROCESSOS](https://www.tiktok.com/@rozdrigo_dev/video/7187264740429761797?is_from_webapp=1&sender_device=pc&web_id=7188344215650108933)
+## [🍦 DICAS E TUQUES DE PROGRAMAÇÃO](https://www.tiktok.com/@rozdrigo_dev/video/7005694777291328773?is_from_webapp=1&sender_device=pc&web_id=7188344215650108933)
+## [🟦 HTML/CSS COMPONENTES](https://www.tiktok.com/@rozdrigo_dev/video/7005693668422159622?is_from_webapp=1&sender_device=pc&web_id=7188344215650108933)
+## [🟥 HTML/CSS COMPONENTES](https://www.tiktok.com/@rozdrigo_dev/video/7005693389534530821?is_from_webapp=1&sender_device=pc&web_id=7188344215650108933)
+## [🟨 HTML/CSS COMPONENTES](https://www.tiktok.com/@rozdrigo_dev/video/7005692978119462150?is_from_webapp=1&sender_device=pc&web_id=7188344215650108933)
